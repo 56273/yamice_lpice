@@ -1,1 +1,10 @@
-https://github.com/56273/yamice_lpice/releases/download/1.1.1/My_First_Mood_Mod.ts4script
+{
+  "latest_exe_version": "1.1.0",
+  "latest_mod_version": "1.1.0",
+  "exe_download_url_gitee": "https://gitee.com/xxx/releases/download/v1.1.0/Yamice.exe",
+  "exe_download_url_github": "https://github.com/xxx/releases/download/v1.1.0/Yamice.exe",
+  "mod_download_url_gitee": "https://gitee.com/xxx/releases/download/v1.1.0/lpice_AIStoryteller.ts4script",
+  "mod_download_url_github": "https://github.com/xxx/releases/download/v1.1.0/lpice_AIStoryteller.ts4script",
+  "changelog": "v1.1.0 更新内容：\n- 自动更新功能\n- 零配置路径\n- API 错误提示优化",
+  "force_update": false
+}
