@@ -1,0 +1,10 @@
+{
+    "latest_exe_version": "1.2.3",
+    "latest_mod_version": "1.2.3",
+    "exe_download_url_gitee": "https://gitee.com/lpice/yamaice-update/releases/download/v1.2.3/Yamice_win_1.2.3.zip",
+    "exe_download_url_github": "https://github.com/56273/yamice_lpice/releases/download/v1.2.3/Yamice_win_1.2.3.zip",
+    "mod_download_url_gitee": "https://gitee.com/lpice/yamaice-update/releases/download/v1.2.3/yamice.zip",
+    "mod_download_url_github": "https://github.com/56273/yamice_lpice/releases/download/v1.2.3/yamice.zip",                                                      
+    "changelog": "这次是真的更新了。",                                                                                                                                                                   
+    "force_update": false
+  }
