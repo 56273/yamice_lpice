@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "revision": 2026091005,
+  "updated": "2026-09-10",
+  "contact": {
+    "email": "yamice1534@gmail.com",
+    "body": {
+      "en": "Questions, feedback and creator access requests can be sent to yamice1534@gmail.com.",
+      "zh": "使用反馈、问题交流和二创申请均可发送至 yamice1534@gmail.com。"
+    },
+    "creator": {
+      "en": "Creator access is currently by invitation to a private repository. Send requests to yamice1534@gmail.com and include:\n\n1. An email address for the repository invitation.\n2. One way to reach you: WeChat, QQ or a social profile.",
+      "zh": "本次先向有二创计划的创作者开放私有仓库，采用邀请制。请发送申请至 yamice1534@gmail.com，并提供：\n\n1. 接收仓库邀请的邮箱。\n2. 一种后续联系方式：微信、QQ 或其他社交主页即可。"
+    }
+  },
+  "posts": [
+    {
+      "id": "update-2026-09-10",
+      "date": "2026-09-10",
+      "archived": false,
+      "title": {
+        "zh": "本次更新说明",
+        "en": "Update notes"
+      },
+      "body": {
+        "zh": "**1. 地区和物品的设定菜单可以分别关闭**\n游戏内“Yamice → 设置”新增“地区与物品设定”分类，包含“显示地区设定选项”和“显示物品设定选项”两个独立开关。\n\n如果只想隐藏物品上的两个 Yamice 设定选项，关闭“显示物品设定选项”即可，地区入口可以继续保留。两个开关默认开启，关闭后重新打开相应菜单即可看到变化。已保存的设定仍然生效，也不会被删除；之后可以随时重新开启入口。\n\n**2. 二创申请**\n本次先向有二创计划的创作者开放私有仓库，采用邀请制。请发送申请至 yamice1534@gmail.com，并提供：\n\n1. 接收仓库邀请的邮箱。\n2. 一种后续联系方式：微信、QQ 或其他社交主页即可。\n\n**3. ModGuard 误报说明**\nYamice 模组不含病毒。ModGuard 对 Yamice 的病毒提示属于误报。\n\nYamice 的游戏模组会与本机桌面程序通信，这是正常功能的一部分。\n\n**4. 家庭设定迁移后没出现，先找旧文件**\n没有手动做过备份，也不代表旧资料一定已经删除。先退出游戏和 Yamice，保留旧模组目录、旧输出目录和现有数据目录。\n\n1. 在以前使用的 Mods 根目录查找 AI_Storyteller_Settings.json。曾自定义输出位置的，也查看旧输出文件夹的上一层。旁边的 AI_Storyteller_Sims.json 可能保存角色的语气、风格和备注。\n2. 找到后先复制一份留存，用文本编辑器打开副本。家庭资料通常位于 households 中；可搜索以前写过的句子。家庭档案常见字段为 profile，玩家笔记为 player_notes 或 player_recap，前情提要为 ai_recap。角色备注可能为 sim_notes 或 notes。\n3. 仍能看到原文时，可把需要的文字复制回新版“设定集”对应家庭或角色的栏目，再保存。不要将整个旧文件覆盖到新版配置中，也不要手动混合数据库。\n\n新版会尝试导入仍存在的旧资料，但已经有记录的家庭不会被整条覆盖。若文件找不到或已损坏，能否恢复取决于旧目录、回收站或其他备份是否仍有可读副本，无法保证凭空找回。反馈时不必发送整个设置文件，里面可能含有连接信息。\n\n**5. “备份旧库并重新开始”不等于删除所有小说文件**\n这个选项处理的是 Yamice 的历史数据库。恢复成功后，旧数据库及相关日志会保留在数据目录的 database_backups 文件夹；新的数据库从空历史开始，旧记录不会自动重新出现在程序列表里。\n\n分别确认这几件事：\n• 你另行保存或导出的小说、TXT、HTML、图片等独立文件，不会因为替换数据库而被这个恢复操作删除。以前的输出目录若有 Story_Archive.txt，也可先保留并查看。\n• 只保存在旧数据库里的故事正文、修改版本、对话、心声、记忆卡等，仍需要从旧库备份排查是否能恢复；不能保证已经完整导出，也不能保证坏库中的每一条都可读。\n• 模拟人生的游戏存档、独立家庭和角色设定文件，不属于这次数据库替换范围。\n\n请保留恢复窗口显示的备份位置和错误信息。找小说时先看你以前使用的输出或导出目录；列表为空并不证明那些独立文件已消失。确认不再需要旧资料前，不要删除整个数据目录或 database_backups。",
+        "en": "**1. Separate switches for Place and Object setting menus**\nThe in-game Yamice → Settings menu now includes Place & Object Settings, with independent switches for Place and Object setting options.\n\nTo hide the two Yamice setting options on objects while keeping Place menus, turn off only Show Object setting options. Both switches start on. Reopen the relevant menu after changing a switch. Saved settings remain in use and are not deleted; the menus can be enabled again at any time.\n\n**2. Creator access**\nCreator access is currently by invitation to a private repository. Send requests to yamice1534@gmail.com and include:\n\n1. An email address for the repository invitation.\n2. One way to reach you: WeChat, QQ or a social profile.\n\n**3. ModGuard false-positive notice**\nThe Yamice mod contains no viruses. ModGuard's virus warning for Yamice is a false positive.\n\nThe game mod communicates with the local Yamice desktop app as part of its normal functionality.\n\n**4. Missing household settings after migration: look for the old files**\nNot having made a manual backup does not prove the old text was deleted. Close the game and Yamice, and keep the old mod folder, old output folder and current data folder.\n\n1. Look for AI_Storyteller_Settings.json in the former Mods root. If you used a custom output location, also check the parent of the old output folder. A neighboring AI_Storyteller_Sims.json may hold character tone, styles and notes.\n2. Copy any file you find before opening the copy in a text editor. Household records are usually under households. Search for a sentence you remember writing. Common fields are profile, player_notes or player_recap, and ai_recap; character notes may be sim_notes or notes.\n3. If the text survives, copy it into the matching household or character fields in Lorebook and save. Do not overwrite new settings with an entire old file or manually combine databases.\n\nThe newer importer retries surviving legacy data but does not replace an existing household record wholesale. If files are missing or damaged, recovery depends on readable copies in old folders, the Recycle Bin or other backups. Avoid sending an entire settings file for support because it may contain connection details.\n\n**5. Starting a new database does not delete every separate story file**\nThis option replaces Yamice’s history database. After successful recovery, the old database and its journal files remain under database_backups in the data folder. The new database starts with empty history; old records are not automatically restored to the app’s lists.\n\nCheck these separately:\n• Independently saved or exported stories, TXT/HTML files and images are not deleted by this database replacement. Keep and check Story_Archive.txt if it exists in an old output folder.\n• Story text, edited versions, dialogue, Inner Voice and Memory Cards stored only in the old database still require recovery assessment from its backup. A complete export or recovery of every damaged record cannot be guaranteed.\n• Sims game saves and separate household or character settings files are outside this database replacement.\n\nKeep the backup location and error details shown by recovery. Look for novels in your previous output or export folders; an empty app list does not prove those separate files are gone. Keep the data folder and database_backups until you know you no longer need the old material."
+      },
+      "links": []
+    }
+  ]
+}
