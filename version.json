@@ -1,10 +1,10 @@
 {
-    "latest_exe_version": "1.2.3",
-    "latest_mod_version": "1.2.3",
-    "exe_download_url_gitee": "https://gitee.com/lpice/yamaice-update/releases/download/v1.2.3/Yamice_win_1.2.3.zip",
-    "exe_download_url_github": "https://github.com/56273/yamice_lpice/releases/download/v1.2.3/Yamice_win_1.2.3.zip",
-    "mod_download_url_gitee": "https://gitee.com/lpice/yamaice-update/releases/download/v1.2.3/yamice.zip",
-    "mod_download_url_github": "https://github.com/56273/yamice_lpice/releases/download/v1.2.3/yamice.zip",                                                      
-    "changelog": "这次是真的更新了。",                                                                                                                                                                   
-    "force_update": false
-  }
+  "latest_exe_version": "1.2.4",
+  "latest_mod_version": "1.2.4",
+  "exe_download_url_gitee": "https://gitee.com/lpice/yamaice-update/releases/download/v1.2.4/Yamice_win_1.2.4.zip",
+  "exe_download_url_github": "https://github.com/56273/yamice_lpice/releases/download/v1.2.4/Yamice_win_1.2.4.zip",
+  "mod_download_url_gitee": "https://gitee.com/lpice/yamaice-update/releases/download/v1.2.4/yamice.zip",
+  "mod_download_url_github": "https://github.com/56273/yamice_lpice/releases/download/v1.2.4/yamice.zip",
+  "changelog": "本次更新：故事默认提示词调整、前情提要修复、自动出章修复、地区和物品设定菜单可隐藏、内容删除、新增 QQ 群。\n自动更新失败时可手动下载：\nGitee：https://gitee.com/lpice/yamaice-update/releases/tag/v1.2.4\nGitHub：https://github.com/56273/yamice_lpice/releases/tag/v1.2.4\n在这个窗口按 Ctrl+C 可以复制全部文字。",
+  "force_update": false
+}
